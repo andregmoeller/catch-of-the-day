@@ -6,7 +6,7 @@ class Inventory extends React.Component {
             <div className="inventory">
                 Inventory!!!
             </div>
-        )
+        );
     }
 }
 
